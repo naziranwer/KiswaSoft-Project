@@ -1,0 +1,74 @@
+body,
+html {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  height: 100%;
+  overflow-x: hidden;
+}
+.safron {
+  color: #ff6b00;
+}
+.darkblue {
+  background-color: #043559;
+}
+.active {
+  color: #043559;
+}
+.orange {
+  background-color: #ff6b00;
+}
+
+.btn.btn-primary {
+  background-color: #ff6b00;
+}
+.brand-logo {
+  max-width: 250px; /* Adjust the maximum width as needed */
+  max-height: 50px; /* Adjust the maximum height as needed */
+  width: auto;
+  height: auto;
+}
+.white {
+  color: #fff;
+}
+
+/* about section  */
+
+.values-box {
+  border: 1px solid #ff6b00;
+  border-bottom: 5px solid #ff6b00;
+  padding: 15px;
+  margin-bottom: 20px;
+}
+.play-icon {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 60px;
+  height: 60px;
+  border: 2px solid #ff6b00;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #fff;
+  color: #ff6b00;
+  cursor: pointer;
+}
+.mission-vision-box {
+  border-bottom: 2px solid #ff6b00;
+  padding: 20px;
+  margin-bottom: 20px;
+}
+.our-story-content {
+  padding: 40px;
+  background-color: #fff;
+  /* border: 2px solid #ff6b00; */
+  height: 100%;
+}
+
+.btn-orange {
+  background-color: #ff6b00;
+  color: #fff;
+}
